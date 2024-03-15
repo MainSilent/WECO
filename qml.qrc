@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>qml/Toolbar.qml</file>
+        <file>qml/Menu.qml</file>
+
+        <file>qml/startup/Startup.qml</file>
+        <file>qml/startup/New.qml</file>
+
+        <file>qml/menu/Power.qml</file>
+        <file>qml/menu/Services.qml</file>
+        <file>qml/menu/MenuItem.qml</file>
+        <file>qml/menu/Settings.qml</file>
+        <file>qml/menu/Add.qml</file>
+        <file>qml/menu/Back.qml</file>
+
+        <file>qml/menu/services/Programs.qml</file>
+
+        <file>qml/menu/settings/USB.qml</file>
+        <file>qml/menu/settings/RAM.qml</file>
+        <file>qml/menu/settings/CPU.qml</file>
+        <file>qml/menu/settings/Disk.qml</file>
+
+        <file>qml/general/Loading.qml</file>
+        <file>qml/general/Error.qml</file>
+
+        <file>qml/fonts/FontAwesome.qml</file>
+        <file>qml/fonts/fa-regular-400.ttf</file>
+
+        <file>qml/images/sharpLoader.svg</file>
+    </qresource>
+</RCC>
